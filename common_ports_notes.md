@@ -73,16 +73,13 @@
 
 ### 📬 POP3 — Post Office Protocol v3
 - **Port:** TCP/110
-- Downloads email to your local device
-- Older, simpler protocol — does not sync across multiple devices
+- POP works by contacting your email service and downloading all of your new messages from it. Once they are downloaded onto your PC or Mac, they are deleted from the email service. This means that after the email is downloaded, it can only be accessed using the same computer. If you try to access your email from a different device, the messages that have been previously downloaded won't be available to you.
 
 ---
 
 ### 📨 IMAP — Internet Message Access Protocol v4
 - **Port:** TCP/143
-- More advanced than POP3
-- Supports folders, inbox management
-- **Syncs across multiple devices/clients**
+- IMAP allows you to access your email wherever you are, from any device. When you read an email message using IMAP, you aren't actually downloading or storing it on your computer; instead, you're reading it from the email service. As a result, you can check your email from different devices, anywhere in the world: your phone, a computer, a friend's computer**
 
 ---
 
