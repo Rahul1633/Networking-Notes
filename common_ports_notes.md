@@ -24,7 +24,7 @@
 
 ### 🔒 SSH — Secure Shell
 - **Port:** TCP/22
-- Encrypted command-line access to remote devices
+- a cryptographic network protocol that allows you to safely connect to and manage a remote computer or server over an unsecured network like the internet
 - **Preferred over Telnet** for all remote admin tasks
 
 ---
